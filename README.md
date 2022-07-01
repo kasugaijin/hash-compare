@@ -12,9 +12,11 @@ This ruby program uses OOP to compare two hashes for differences. Specifically, 
  Testing of the core compare methods was completed using RSpec. 
 
  **Limitations**
+
  This project was provided with a rough time constraint of approximately 2 hours. As such, in order to complete the goals of the challenge, I decided to narrow the scope to such that the deep compare only goes one level deeper, and only evaluates Hash class. As such, nested arrays were out of scope.
 
  **Improvements**
+ 
  With more time and consideration, this program would be designed to assess differences between hashes at all depths of a nested hash. 
 
 **Files**
