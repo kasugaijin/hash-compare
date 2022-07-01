@@ -1,4 +1,4 @@
-** Hash Compare
+## Hash Compare
 
 This ruby program uses OOP to compare two hashes for differences. Specifically, it:
 * checks if the arguments passed in are hashes
