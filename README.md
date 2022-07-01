@@ -30,6 +30,6 @@ This ruby program uses OOP to compare two hashes for differences. Specifically, 
 * hash_compare_spec.rb contains the test suite for class HashCompare. All tests pass.
 
 **To Run**
-* clone this repo and open the project directory in terminal and load 'load_compare.rb'. 
+* clone this repo and open the project directory in terminal and cd to /lib, then rub irb and enter `load 'load_compare.rb'`. 
 * you can change the hashes being evaluated by modifying the module in 'hashes.rb'.
 * you can run the deep or shallow compare by modifying the method call at the bottom of 'load_compare.rb'
